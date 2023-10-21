@@ -4,7 +4,7 @@
 
 
  
- |<img src="https://github-readme-stats.vercel.app/api?username=ankitgautam03&show_icons=true"></img>|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=ankitgautam03"/>|
+ |<img src="https://github-readme-stats.vercel.app/api?username=ankit0313&show_icons=true"></img>|<img src="https://github-readme-streak-stats.herokuapp.com/?&user=ankit0313"/>|
 |---|---|
  <h1>Technical Skills 🛠</h1>
  
