@@ -19,6 +19,6 @@
      
 ![](https://komarev.com/ghpvc/?username=ankitgautam03&color=blue&style=flat-square&label=Profile+visitors)
  
- <h1>Hacktoberfest 2023</h1>
+ <h1>Hacktoberfest 2023 (Repository Maintainer)</h1>
 
 [![An image of @ankit0313's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankit0313)](https://holopin.io/@ankit0313)
